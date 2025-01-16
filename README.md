@@ -1,1 +1,1 @@
-# Todo-list
+A Todo list is a simple app used to manage tasks by adding, updating, or removing them, helping users stay organized. It is commonly created in React to demonstrate state management and dynamic rendering.
